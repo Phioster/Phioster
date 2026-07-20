@@ -51,10 +51,7 @@
 
 <div align="center">
 
-<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Phioster&theme=github_dark" alt="stats">
-<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Phioster&theme=github_dark" alt="languages">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Phioster&bg_color=0d1117&color=22c3d6&line=2ea043&point=eaffef&area=true&area_color=6cae3a&hide_border=true&custom_title=./contribution-activity" alt="activity graph">
+<img src="assets/stats.svg" alt="system readout" width="100%">
 
 </div>
 
