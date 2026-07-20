@@ -4,14 +4,14 @@
 
 <img src="assets/matrix-header.svg" alt="phioster" width="100%">
 
-<img src="https://komarev.com/ghpvc/?username=Phioster&color=00ff41&style=flat-square&label=visitors" alt="visitors">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=00FF41&center=true&vCenter=true&width=620&lines=self-hosted+tinkerer;native+Android+%C2%B7+Kotlin+%C2%B7+Compose;building+Sanctumd+%F0%9F%9F%A2;matrix-terminal%2C+everywhere" alt="typing">
+<img src="https://komarev.com/ghpvc/?username=Phioster&color=2ea043&style=flat-square&label=visitors" alt="visitors">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=2EA043&center=true&vCenter=true&width=620&lines=self-hosted+tinkerer;native+Android+%C2%B7+Kotlin+%C2%B7+Compose;building+Sanctumd+%F0%9F%9F%A2;matrix-terminal%2C+everywhere" alt="typing">
 
 </div>
 
 ---
 
-<img src="https://img.shields.io/badge/%2F%2F%20about-00ff41?style=for-the-badge&labelColor=0d1117" alt="about">
+<img src="https://img.shields.io/badge/%2F%2F%20about-2ea043?style=for-the-badge&labelColor=0d1117" alt="about">
 
 ```text
 [stack]   Kotlin · Jetpack Compose · Android
@@ -20,7 +20,7 @@
 ```
 <!-- optional: eine Zeile über dich (Land, Interessen …) oder diese Zeile löschen -->
 
-<img src="https://img.shields.io/badge/%2F%2F%20featured-22f0ff?style=for-the-badge&labelColor=0d1117" alt="featured">
+<img src="https://img.shields.io/badge/%2F%2F%20featured-22c3d6?style=for-the-badge&labelColor=0d1117" alt="featured">
 
 > **🟢 Sanctumd** — one native Android app for your whole self-hosted stack:
 > **Jellyfin admin** + the **\*arr / download / request** stack, in a single
@@ -31,18 +31,18 @@
 
 <!-- Nach dem Public-Schalten diese Card einkommentieren:
 <a href="https://github.com/Phioster/sanctum_daemon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phioster&repo=sanctum_daemon&hide_border=true&title_color=00ff41&icon_color=22f0ff&text_color=c9d1d9&bg_color=0d1117" alt="Sanctumd">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phioster&repo=sanctum_daemon&hide_border=true&title_color=2ea043&icon_color=22c3d6&text_color=c9d1d9&bg_color=0d1117" alt="Sanctumd">
 </a>
 -->
 
-<img src="https://img.shields.io/badge/%2F%2F%20stack-9dff2f?style=for-the-badge&labelColor=0d1117" alt="stack">
+<img src="https://img.shields.io/badge/%2F%2F%20stack-6cae3a?style=for-the-badge&labelColor=0d1117" alt="stack">
 
 <p>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
 <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-<img src="https://img.shields.io/badge/Kotlin_Serialization-00ffa8?style=for-the-badge&logo=kotlin&logoColor=0d1117" alt="Serialization">
-<img src="https://img.shields.io/badge/OkHttp-22f0ff?style=for-the-badge&logo=square&logoColor=0d1117" alt="OkHttp">
+<img src="https://img.shields.io/badge/Android-34a853?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+<img src="https://img.shields.io/badge/Kotlin_Serialization-159f8f?style=for-the-badge&logo=kotlin&logoColor=white" alt="Serialization">
+<img src="https://img.shields.io/badge/OkHttp-1f9fb0?style=for-the-badge&logo=square&logoColor=white" alt="OkHttp">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0d1117" alt="Linux">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
@@ -51,10 +51,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Phioster&show_icons=true&hide_border=true&count_private=true&title_color=00ff41&icon_color=22f0ff&text_color=c9d1d9&bg_color=0d1117" alt="stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phioster&layout=compact&hide_border=true&langs_count=6&title_color=9dff2f&text_color=c9d1d9&bg_color=0d1117" alt="top langs">
+<img height="185" src="https://streak-stats.demolab.com?user=Phioster&hide_border=true&background=0D1117&stroke=0F3D1E&ring=2EA043&fire=22C3D6&currStreakNum=C9D1D9&currStreakLabel=2EA043&sideNums=C9D1D9&sideLabels=6CAE3A&dates=8B949E&excludeDaysLabel=8B949E" alt="streak">
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Phioster&theme=github_dark" alt="languages">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Phioster&bg_color=0d1117&color=22f0ff&line=00ff41&point=eaffef&area=true&area_color=9dff2f&hide_border=true&custom_title=./contribution-activity" alt="activity graph">
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Phioster&bg_color=0d1117&color=22c3d6&line=2ea043&point=eaffef&area=true&area_color=6cae3a&hide_border=true&custom_title=./contribution-activity" alt="activity graph">
 
 </div>
 
