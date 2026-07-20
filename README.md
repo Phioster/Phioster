@@ -51,17 +51,17 @@
 
 <div align="center">
 
-<img height="185" src="https://streak-stats.demolab.com?user=Phioster&hide_border=true&background=0D1117&stroke=0F3D1E&ring=2EA043&fire=22C3D6&currStreakNum=C9D1D9&currStreakLabel=2EA043&sideNums=C9D1D9&sideLabels=6CAE3A&dates=8B949E&excludeDaysLabel=8B949E" alt="streak">
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Phioster&theme=github_dark" alt="stats">
 <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Phioster&theme=github_dark" alt="languages">
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Phioster&bg_color=0d1117&color=22c3d6&line=2ea043&point=eaffef&area=true&area_color=6cae3a&hide_border=true&custom_title=./contribution-activity" alt="activity graph">
 
 </div>
 
-<!-- Optional: animierte Contribution-"Snake" — läuft nach dem ersten Action-Run.
 <div align="center">
-<img src="https://raw.githubusercontent.com/Phioster/Phioster/output/snake.svg" alt="snake">
+
+<img src="https://raw.githubusercontent.com/Phioster/Phioster/output/snake.svg" alt="contribution snake" width="100%">
+
 </div>
--->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=90&section=footer&reversal=false" alt="footer" width="100%">
