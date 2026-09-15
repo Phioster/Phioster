@@ -26,14 +26,10 @@
 > **Jellyfin admin** + the **\*arr / download / request** stack, in a single
 > matrix-terminal UI. No backend, no account — every action hits each service's
 > own API directly.
->
-> <sub>_Repo-Card erscheint hier automatisch, sobald `sanctum_daemon` public ist._</sub>
 
-<!-- Nach dem Public-Schalten diese Card einkommentieren:
 <a href="https://github.com/Phioster/sanctum_daemon">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phioster&repo=sanctum_daemon&hide_border=true&title_color=2ea043&icon_color=22c3d6&text_color=c9d1d9&bg_color=0d1117" alt="Sanctumd">
 </a>
--->
 
 <img src="https://img.shields.io/badge/%2F%2F%20stack-6cae3a?style=for-the-badge&labelColor=0d1117" alt="stack">
 
