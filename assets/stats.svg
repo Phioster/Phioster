@@ -1,33 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230"
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300"
      font-family="'DejaVu Sans Mono','Menlo','Courier New',monospace">
   <defs>
     <filter id="g" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feGaussianBlur stdDeviation="3" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
 
-  <!-- window -->
-  <rect x="1" y="1" width="898" height="228" rx="12" fill="#050805" stroke="#0f3d1e" stroke-width="1.5"/>
-  <path d="M1 13 A12 12 0 0 1 13 1 L887 1 A12 12 0 0 1 899 13 L899 40 L1 40 Z" fill="#0c140c"/>
-  <circle cx="28" cy="21" r="6" fill="#ff5f56"/><circle cx="50" cy="21" r="6" fill="#ffbd2e"/><circle cx="72" cy="21" r="6" fill="#27c93f"/>
-  <text x="450" y="26" fill="#2f6b3f" font-size="14" text-anchor="middle">phioster@github ~ system</text>
+  <rect x="1" y="1" width="898" height="298" rx="14" fill="#050805" stroke="#0f3d1e" stroke-width="1.8"/>
+  <path d="M1 15 A14 14 0 0 1 15 1 L885 1 A14 14 0 0 1 899 15 L899 52 L1 52 Z" fill="#0c140c"/>
+  <circle cx="34" cy="27" r="7.5" fill="#ff5f56"/><circle cx="60" cy="27" r="7.5" fill="#ffbd2e"/><circle cx="86" cy="27" r="7.5" fill="#27c93f"/>
+  <text x="450" y="34" fill="#2f6b3f" font-size="18" text-anchor="middle">phioster@github ~ system</text>
 
-  <!-- left emblem -->
-  <text x="150" y="140" fill="#2ea043" font-size="78" font-weight="bold" text-anchor="middle" filter="url(#g)">&gt;_</text>
-  <text x="150" y="178" fill="#6cae3a" font-size="20" text-anchor="middle" letter-spacing="4">phioster</text>
+  <text x="100" y="190" fill="#2ea043" font-size="62" font-weight="bold" text-anchor="middle" filter="url(#g)">&gt;_</text>
+  <text x="100" y="230" fill="#6cae3a" font-size="17" text-anchor="middle" letter-spacing="3">phioster</text>
 
-  <!-- divider -->
-  <line x1="300" y1="62" x2="300" y2="200" stroke="#0f3d1e" stroke-width="1.4"/>
+  <line x1="200" y1="76" x2="200" y2="262" stroke="#0f3d1e" stroke-width="1.6"/>
 
-  <!-- readout -->
-  <g font-size="18" xml:space="preserve">
-    <text x="336" y="86"><tspan fill="#2ea043">OS</tspan><tspan fill="#2f6b3f"> ........... </tspan><tspan fill="#c9d1d9">matrix-terminal</tspan></text>
-    <text x="336" y="116"><tspan fill="#22c3d6">shell</tspan><tspan fill="#2f6b3f"> ........ </tspan><tspan fill="#c9d1d9">kotlin · jetpack compose</tspan></text>
-    <text x="336" y="146"><tspan fill="#6cae3a">focus</tspan><tspan fill="#2f6b3f"> ........ </tspan><tspan fill="#c9d1d9">self-hosted · homelab</tspan></text>
-    <text x="336" y="176"><tspan fill="#a970ff">projects</tspan><tspan fill="#2f6b3f"> ..... </tspan><tspan fill="#c9d1d9">Sanctumd</tspan><tspan fill="#2f6b3f"> · </tspan><tspan fill="#c9d1d9">Stillwater</tspan><tspan fill="#2f6b3f"> · </tspan><tspan fill="#c9d1d9">Glyphsmith</tspan><tspan fill="#2ea043"> ●</tspan></text>
+  <g font-size="22" xml:space="preserve">
+    <text x="226" y="110"><tspan fill="#2ea043">OS</tspan><tspan fill="#2f6b3f"> ........... </tspan><tspan fill="#c9d1d9">matrix-terminal</tspan></text>
+    <text x="226" y="150"><tspan fill="#22c3d6">shell</tspan><tspan fill="#2f6b3f"> ........ </tspan><tspan fill="#c9d1d9">kotlin · jetpack compose</tspan></text>
+    <text x="226" y="190"><tspan fill="#6cae3a">focus</tspan><tspan fill="#2f6b3f"> ........ </tspan><tspan fill="#c9d1d9">self-hosted · homelab</tspan></text>
+    <text x="226" y="230"><tspan fill="#a970ff">projects</tspan><tspan fill="#2f6b3f"> ..... </tspan><tspan fill="#c9d1d9">Sanctumd · Stillwater · Glyphsmith</tspan></text>
   </g>
 
-  <!-- prompt + blinking cursor -->
-  <text x="336" y="208" font-size="16" xml:space="preserve"><tspan fill="#2ea043">visitor@homelab</tspan><tspan fill="#2f6b3f">:</tspan><tspan fill="#3ea55a">~</tspan><tspan fill="#2f6b3f">$</tspan><tspan fill="#8adfa0"> uptime → always tinkering</tspan><tspan fill="#eaffef" font-weight="bold"> ▊<animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite" calcMode="discrete"/></tspan></text>
+  <text x="226" y="272" font-size="20" xml:space="preserve"><tspan fill="#2ea043">visitor@homelab</tspan><tspan fill="#2f6b3f">:</tspan><tspan fill="#3ea55a">~</tspan><tspan fill="#2f6b3f">$</tspan><tspan fill="#8adfa0"> uptime → always tinkering</tspan><tspan fill="#eaffef" font-weight="bold"> ▊<animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite" calcMode="discrete"/></tspan></text>
 </svg>
