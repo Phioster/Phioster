@@ -14,34 +14,28 @@
 <img src="https://img.shields.io/badge/%2F%2F%20about-2ea043?style=for-the-badge&labelColor=0d1117" alt="about">
 
 ```text
-[stack]   Kotlin · Jetpack Compose · Android
-[focus]   self-hosted / homelab · clean native UIs
-[vibe]    matrix-terminal green, everywhere
+[stack]  Kotlin · Compose · Android · Godot
+[focus]  self-hosted / homelab · native UIs
+[vibe]   matrix-terminal green, everywhere
 ```
-<!-- optional: eine Zeile über dich (Land, Interessen …) oder diese Zeile löschen -->
 
 <img src="https://img.shields.io/badge/%2F%2F%20featured-22c3d6?style=for-the-badge&labelColor=0d1117" alt="featured">
 
-> **🟢 Sanctumd** — one native Android app for your whole self-hosted stack:
-> **Jellyfin admin** + the **\*arr / download / request** stack, in a single
-> matrix-terminal UI. No backend, no account — every action hits each service's
-> own API directly.
-
 <a href="https://github.com/Phioster/sanctum_daemon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phioster&repo=sanctum_daemon&hide_border=true&title_color=2ea043&icon_color=22c3d6&text_color=c9d1d9&bg_color=0d1117" alt="Sanctumd">
+  <img src="assets/card-sanctumd.svg" width="100%" alt="Sanctumd — one native Android app for your whole self-hosted stack: Jellyfin admin plus the *arr / download / request stack, in a single matrix-terminal UI. Kotlin, Compose, media3, libmpv. GPL-3.0.">
+</a>
+
+<a href="https://github.com/Phioster/stillwater">
+  <img src="assets/card-stillwater.svg" width="100%" alt="Stillwater — a quiet 2D pixel-art idle fishing game for Android, built in Godot. Godot 4.7.2, GDScript.">
+</a>
+
+<a href="https://github.com/Phioster/glyphsmith">
+  <img src="assets/card-glyphsmith.svg" width="100%" alt="Glyphsmith — an Android dithering and retro-effect tool with 79 dither algorithms. Kotlin, Compose.">
 </a>
 
 <img src="https://img.shields.io/badge/%2F%2F%20stack-6cae3a?style=for-the-badge&labelColor=0d1117" alt="stack">
 
-<p>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose">
-<img src="https://img.shields.io/badge/Android-34a853?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-<img src="https://img.shields.io/badge/Kotlin_Serialization-159f8f?style=for-the-badge&logo=kotlin&logoColor=white" alt="Serialization">
-<img src="https://img.shields.io/badge/OkHttp-1f9fb0?style=for-the-badge&logo=square&logoColor=white" alt="OkHttp">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0d1117" alt="Linux">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+<img src="assets/stack.svg" width="100%" alt="Kotlin · Jetpack Compose · Android · kotlinx.serialization · OkHttp · Godot · GDScript · Linux · Git">
 
 <img src="https://img.shields.io/badge/%2F%2F%20stats-a970ff?style=for-the-badge&labelColor=0d1117" alt="stats">
 

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230"
+     font-family="'DejaVu Sans Mono','Menlo','Courier New',monospace">
+  <defs>
+    <filter id="cw" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="228" rx="12" fill="#050805" stroke="#0f3d1e" stroke-width="1.5"/>
+  <path d="M1 13 A12 12 0 0 1 13 1 L887 1 A12 12 0 0 1 899 13 L899 40 L1 40 Z" fill="#0c140c"/>
+  <circle cx="28" cy="21" r="6" fill="#ff5f56"/><circle cx="50" cy="21" r="6" fill="#ffbd2e"/><circle cx="72" cy="21" r="6" fill="#27c93f"/>
+  <text x="450" y="26" fill="#2f6b3f" font-size="14" text-anchor="middle">phioster@github ~ stillwater</text>
+
+  <rect x="40" y="66" width="5" height="28" fill="#22c3d6"/>
+  <text x="58" y="90" fill="#22c3d6" font-size="28" font-weight="bold" filter="url(#cw)">Stillwater</text>
+
+  <g font-size="15.5" fill="#c9d1d9">
+    <text x="58" y="126">a quiet 2D pixel-art idle fishing game for Android, built in Godot.</text>
+    <text x="58" y="149">fish a lake, sell the catch, buy gear, and unlock zones, bait and</text>
+    <text x="58" y="172">rarer fish — it keeps going while you are away.</text>
+  </g>
+
+  <text x="58" y="204" font-size="15" xml:space="preserve"><tspan fill="#22c3d6">stack</tspan><tspan fill="#2f6b3f"> ..... </tspan><tspan fill="#c9d1d9">Godot 4.7.2 · GDScript · Android</tspan></text>
+</svg>

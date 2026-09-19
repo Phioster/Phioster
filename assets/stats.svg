@@ -21,15 +21,13 @@
   <line x1="300" y1="62" x2="300" y2="200" stroke="#0f3d1e" stroke-width="1.4"/>
 
   <!-- readout -->
-  <g font-size="18">
+  <g font-size="18" xml:space="preserve">
     <text x="336" y="86"><tspan fill="#2ea043">OS</tspan><tspan fill="#2f6b3f"> ........... </tspan><tspan fill="#c9d1d9">matrix-terminal</tspan></text>
     <text x="336" y="116"><tspan fill="#22c3d6">shell</tspan><tspan fill="#2f6b3f"> ........ </tspan><tspan fill="#c9d1d9">kotlin · jetpack compose</tspan></text>
     <text x="336" y="146"><tspan fill="#6cae3a">focus</tspan><tspan fill="#2f6b3f"> ........ </tspan><tspan fill="#c9d1d9">self-hosted · homelab</tspan></text>
-    <text x="336" y="176"><tspan fill="#a970ff">projects</tspan><tspan fill="#2f6b3f"> ..... </tspan><tspan fill="#c9d1d9">Sanctumd</tspan><tspan fill="#2ea043"> ● </tspan><tspan fill="#8b949e">+ more, since 2024</tspan></text>
+    <text x="336" y="176"><tspan fill="#a970ff">projects</tspan><tspan fill="#2f6b3f"> ..... </tspan><tspan fill="#c9d1d9">Sanctumd</tspan><tspan fill="#2f6b3f"> · </tspan><tspan fill="#c9d1d9">Stillwater</tspan><tspan fill="#2f6b3f"> · </tspan><tspan fill="#c9d1d9">Glyphsmith</tspan><tspan fill="#2ea043"> ●</tspan></text>
   </g>
 
   <!-- prompt + blinking cursor -->
-  <text x="336" y="208" font-size="16">
-    <tspan fill="#2ea043">visitor@homelab</tspan><tspan fill="#2f6b3f">:</tspan><tspan fill="#3ea55a">~</tspan><tspan fill="#2f6b3f">$</tspan><tspan fill="#8adfa0"> uptime → always tinkering</tspan><tspan fill="#eaffef" font-weight="bold"> ▊<animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite" calcMode="discrete"/></tspan>
-  </text>
+  <text x="336" y="208" font-size="16" xml:space="preserve"><tspan fill="#2ea043">visitor@homelab</tspan><tspan fill="#2f6b3f">:</tspan><tspan fill="#3ea55a">~</tspan><tspan fill="#2f6b3f">$</tspan><tspan fill="#8adfa0"> uptime → always tinkering</tspan><tspan fill="#eaffef" font-weight="bold"> ▊<animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite" calcMode="discrete"/></tspan></text>
 </svg>
